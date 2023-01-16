@@ -1,6 +1,8 @@
 # Snake-Game
 A snake game. 
 
+![ezgif-3-636133a578](https://user-images.githubusercontent.com/100822861/212577660-407a445f-614a-4b3a-a673-11a20b14ff00.gif)
+
 
 The game is designed to have your snake increase as it passes over the yellow fruit. By moving the arrow keys the
 user controls the snake. The snake cannot go back in the same direction it is coming from, cannot touch itself, or
@@ -29,7 +31,7 @@ location on the grid in the grid.js file.
 
 The grid.js file uses the Math.floor and Math.random methods to randomly select a location in both the x and y plane
 for the fruit in the grid. 
-![ezgif-3-636133a578](https://user-images.githubusercontent.com/100822861/212577660-407a445f-614a-4b3a-a673-11a20b14ff00.gif)
+
 
 
 
